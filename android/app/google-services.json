@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "564387749021",
+    "project_id": "inkink-32304",
+    "storage_bucket": "inkink-32304.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564387749021:android:62406f65a96cf340c54874",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXG0Nkhhhbi3SCFHF3YkJzv68KiT62ra4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564387749021:android:e9fad1a27aae5d6ec54874",
+        "android_client_info": {
+          "package_name": "com.example.project1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXG0Nkhhhbi3SCFHF3YkJzv68KiT62ra4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
